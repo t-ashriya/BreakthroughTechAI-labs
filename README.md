@@ -1,2 +1,2 @@
-# BTAI-portfolio
+# BTTAI-portfolio
 Codes and labs in BTAI
