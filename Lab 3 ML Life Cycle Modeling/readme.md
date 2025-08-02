@@ -75,14 +75,3 @@ def compute_hessian(self, X, P):
 
 ## Key Visualizations
 *Matching weights between our implementation (blue) and scikit-learn (orange)*
-```
-
-This maintains all critical sections from your template while highlighting Lab 3's unique aspects:
-
-1. **Technical Depth**: Focuses on mathematical implementation details
-2. **Verification**: Emphasizes the scikit-learn comparison
-3. **Code Transparency**: Shows core algorithm snippets
-4. **Performance Metrics**: Includes timing results
-5. **Interpretability**: Discusses feature weights
-
-The structure allows quick understanding of both the pedagogical value (learning through implementation) and practical results (working classifier matching standard library performance).
