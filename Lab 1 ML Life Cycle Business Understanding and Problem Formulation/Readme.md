@@ -63,13 +63,3 @@ df = pd.get_dummies(df, columns=['room_type'])
 
 ## Key Visualizations
 *Relationship between price, accommodates and bedrooms*
-```
-
-This maintains the same professional structure as your Lab 5 README while adapting the content to Lab 1's focus on data preparation. Key differences include:
-1. Emphasis on data cleaning rather than model evaluation
-2. Inclusion of specific data issues addressed (missing values, outliers)
-3. Code examples for core cleaning operations
-4. Reference to generated visualizations
-5. Clear pipeline reproduction steps
-
-The format ensures consistency across all lab documentation while properly representing each lab's unique focus within the ML lifecycle.
